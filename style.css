@@ -184,8 +184,8 @@ section .title::after{
   margin-right: 0;
 }
 .home .home-content .text-1{
-    margin-left:0;
-    margin-bottom: 0;
+    margin-left: 0px;
+    margin-bottom: 0px;
     font-size: 27px;
 }
 .home .home-content .text-2{
